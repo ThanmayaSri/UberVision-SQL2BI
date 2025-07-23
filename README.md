@@ -27,7 +27,7 @@ UberVision-SQL2B/
 - **Hourly & Weekly Trends** from SQL aggregates
 - **Clean design**, bold color contrasts, and compact visuals
 
-📽️ **Demo video** (hosted externally): [View in Google Drive]([https://drive.google.com/file/d/1QlMDINZJAbRUXR97PYPN6mcCu7c7wYzG/view?usp=sharing])
+📽️ **Demo video** (hosted externally): [View in Google Drive](https://drive.google.com/file/d/1QlMDINZJAbRUXR97PYPN6mcCu7c7wYzG/view?usp=sharing)
 
 ---
 
